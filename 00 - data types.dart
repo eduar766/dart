@@ -21,7 +21,7 @@ void main() {
   print('bool: $myBool');
 
   // List
-  // List: Colección ordenada de elementos
+  // List: Colección ordenada de elementos, son de tamaño fijo
   List<int> myList = [1, 2, 3, 4, 5];
   print('List: $myList');
 
